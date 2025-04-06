@@ -1,0 +1,6 @@
+streamlit==1.29.0
+requests==2.31.0
+beautifulsoup4==4.12.3
+lxml==4.9.4
+fuzzywuzzy==0.18.0
+python-Levenshtein==0.12.2
